@@ -1,0 +1,25 @@
+torch>=1.12.0
+torchvision>=0.13.0
+facenet-pytorch
+
+insightface>=0.7.3
+onnxruntime>=1.10.0
+scikit-image
+scipy
+
+# PyQt5 for GUI
+PyQt5>=5.15.0
+
+# Flask for web API
+Flask>=2.0.0
+
+opencv-python-headless>=4.5.0.52
+
+numpy>=1.21.0
+Pillow
+requests
+
+sqlite3
+
+torchvision
+
